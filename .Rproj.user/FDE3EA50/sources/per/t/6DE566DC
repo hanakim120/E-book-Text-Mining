@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577071088905.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2950106084",
+    "id" : "6DE566DC",
+    "lastKnownWriteTime" : 1573047300,
+    "last_content_update" : 1573047300,
+    "path" : "C:/Users/lg/Desktop/Rproject/Crawling/bandalcoffee_title.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "98,0",
+        "scrollLine" : "62"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
