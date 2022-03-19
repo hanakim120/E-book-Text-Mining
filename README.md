@@ -84,7 +84,7 @@ DTM 을 구축하고 누적 빈도수를 계산하여 가장 자주 등장한단
 
 |jekyll 데이터의 WordCloud|Cinderella 데이터의 WordCloud|
 |:-:|:-:|
-|![firstimage](./image/cinderella_wordcloud.png)|![Second Image](./image/cinderella_wordcloud.png)|	
+|![firstimage](./image/jekyll_wordcloud.png)|![Second Image](./image/cinderella_wordcloud.png)|	
 
 
 ## 🤖 감정분석 
